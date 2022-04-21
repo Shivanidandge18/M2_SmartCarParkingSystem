@@ -2,9 +2,6 @@
 
 ![smartcarparkingsystem-Banner](https://user-images.githubusercontent.com/94896509/164504445-c46f3e68-cab2-4ede-9f0d-1118862f2268.jpg)
 
-# M1_MovieTicketBookingSystem
-
-![banner](https://user-images.githubusercontent.com/94896509/160982976-3596dde8-5e7c-4573-afd4-b2b81a6e3812.jpg)
 
 <!--
 Visit [Pages for Report -optional](using github.io option)
