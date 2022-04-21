@@ -19,7 +19,11 @@ Nowadays congestion of traffic level increases with the increasing development o
 #### User Friendly
 #### Can Select the Parking Slots as per choice
 
-   
+
+## Analysis
+
+   ![analysis](https://user-images.githubusercontent.com/94896509/164496923-10a64777-1bcd-4cb3-a435-6856ae810731.jpg)
+
 
 ### 4W&#39;s and 1&#39;H
 
